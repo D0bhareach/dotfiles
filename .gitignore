@@ -1,4 +1,4 @@
-# ignore original folders and compressed  files for directories that I must encrypt manually
+# ignore original folders and compressed  files for directories.
 docs
 docs.tar.gz
 
