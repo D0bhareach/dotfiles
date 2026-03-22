@@ -1,0 +1,9 @@
+# important ignore all that you do not want to end up in your home dir.
+docs
+docs.tar.gz.age
+
+scripts
+scripts.tar.gz.age
+
+LICENSE
+README.md
