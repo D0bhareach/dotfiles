@@ -1,6 +1,3 @@
 # ignore original folders and compressed  files for directories
-docs
-docs.tar.gz
-
 scripts
 scripts.tar.gz
